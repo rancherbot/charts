@@ -8,3 +8,9 @@ rancher-logging:
   - 105.2.0-rc.1+up4.10.0
 rancher-logging-crd:
   - 105.2.0-rc.1+up4.10.0
+fleet:
+  - 105.0.3+up0.11.3-beta.1
+fleet-crd:
+  - 105.0.3+up0.11.3-beta.1
+fleet-agent:
+  - 105.0.3+up0.11.3-beta.1
