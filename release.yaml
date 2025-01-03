@@ -11,3 +11,5 @@ harvester-cloud-provider:
   - 104.0.3+up0.2.7
 rancher-istio:
   - 104.4.0+up1.22.1
+prometheus-federator:
+  - 104.1.0-rc.1+up0.4.5
